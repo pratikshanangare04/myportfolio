@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/image.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Certificate => Diploma In Web Design 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I am currently pursuing a diploma in web design to develop skills in creating responsive and visually engaging websites. My focus is on mastering design principles and modern web technologies to craft user-friendly digital experiences.",
+    url: "https://drive.google.com/file/d/1nkgerjsaIqZ64dIiUzItRe8a24NYrdYC/view?usp=drivesdk",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Movie App React js Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This React project uses the TMDB API to display popular, top-rated, and upcoming movies. Users can search for movies by title or ID and view detailed information, including posters, ratings, and cast.",
+    url: "https://github.com/pratikshanangare04/Movie-App",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://pratikshanangare04.github.io/resume/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Certificate=> Diploma In React Js 🎉",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I am pursuing a diploma in React.js to master building dynamic and interactive web applications with modern development practices.",
+    url: "https://drive.google.com/file/d/1nfCcKAe945q0c_ANU_g4qZp_46sOu3A_/view?usp=drivesdk",
   },
 ];
 
