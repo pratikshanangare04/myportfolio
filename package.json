@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://pratikshanangare.github.io/my-portfolio-site",
+  "homepage": "https://pratikshanangare04.github.io/my-portfolio-site",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://pratikshanangare.github.io/my-portfolio-site'",
+    "build-gh": "parcel build --public-url 'https://pratikshanangare04.github.io/my-portfolio-site'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
